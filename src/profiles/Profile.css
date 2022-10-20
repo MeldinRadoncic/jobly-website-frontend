@@ -1,0 +1,33 @@
+.Profile {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to right,#00f260,#0575e6);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Profile-Heading {
+    text-align: center;
+}
+
+.Profile-Form {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #eee;
+    padding: 2rem ;
+    border-radius: 10px;
+    box-shadow: 1rem 2rem 1rem rgba(0, 0, 0, .56);
+}
+
+.Profile-Form-Username-Heading {
+    text-align: center;
+}
+
+.errors-paragraph {
+    color: red;
+    text-align: centerASD;
+}

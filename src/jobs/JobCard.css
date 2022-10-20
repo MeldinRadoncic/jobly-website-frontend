@@ -1,0 +1,10 @@
+.JobCard {
+margin:1rem;
+width: 18rem;
+box-shadow: 1rem 2rem 2rem rgba(0, 0, 0, 0.2);
+}
+
+
+.JobCard-Applied {
+    opacity: 0.7;
+}

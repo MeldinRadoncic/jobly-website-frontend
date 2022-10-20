@@ -1,0 +1,8 @@
+.JobCardList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 1rem;
+}

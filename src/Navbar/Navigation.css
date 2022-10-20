@@ -1,0 +1,13 @@
+
+#basic-nav-dropdown {
+  color: #fff;
+  background-color: rgba(0, 0, 0, .4);
+  margin:0 10px;
+  text-align: center;
+}
+
+.basic-nav-dropdown-paragraph {
+text-transform: capitalize;
+margin-top: 2rem;
+text-align: center;
+}

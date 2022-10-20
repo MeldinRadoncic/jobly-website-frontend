@@ -1,0 +1,28 @@
+
+.CompanyDetails {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(224, 141, 141);
+    
+}
+
+.CompanyDetails-Title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 1.5rem;
+    padding: 20px;
+    color: white;
+    text-shadow: 1rem 2rem 0.4rem rgba(0,0,0,0.6);
+}
+
+.CompanyDetails-Description {
+    font-size: 1.5rem;
+    max-width:60ch;
+    margin: 0 auto;
+    padding: 15px;
+}
+
